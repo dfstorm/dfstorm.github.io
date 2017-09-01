@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Genois</title>
+    <link>https://genois.me/</link>
+    <description>Recent content on Gabriel Genois</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 12:59:17 +0200</lastBuildDate>
+    
+	<atom:link href="https://genois.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello Friend</title>
+      <link>https://genois.me/posts/hello-friend/</link>
+      <pubDate>Fri, 01 Sep 2017 12:59:17 +0200</pubDate>
+      
+      <guid>https://genois.me/posts/hello-friend/</guid>
+      <description>New country, new life&amp;hellip; why not a new blog.</description>
+    </item>
+    
+  </channel>
+</rss>
