@@ -6,20 +6,10 @@
     <description>Recent content in Posts on dfstorm</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Gabriel Genois</copyright>
-    <lastBuildDate>Fri, 01 Sep 2017 16:25:55 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 01 Sep 2017 12:59:17 +0200</lastBuildDate>
     
 	<atom:link href="https://dfstorm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Pourquoi Ne Pas Utiliser Freenom</title>
-      <link>https://dfstorm.github.io/posts/pourquoi-ne-pas-utiliser-freenom/</link>
-      <pubDate>Fri, 01 Sep 2017 16:25:55 +0200</pubDate>
-      
-      <guid>https://dfstorm.github.io/posts/pourquoi-ne-pas-utiliser-freenom/</guid>
-      <description>Freenom aura été utilisé par beaucoup de startup. Mais voici quelques points importants:
- Si un trafic important ce déclare: Votre domaine gratuit sera transformé en payant. Si vous ne le renouvellez pas dans la fenêtre de 5 jours, celui-ci devient payant. Vos DNS personnalisé peuvent changer sans pré-avis suite à une mise-à-jour de leur système. Sans pré-avis et sans expliquations de leur part, votre domaine peut devenir payant.  Lorsque votre domaine devient payant, la valeur de celui-ci varira selon leur estimation.</description>
-    </item>
     
     <item>
       <title>Hello Friend</title>
