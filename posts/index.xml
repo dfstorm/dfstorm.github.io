@@ -6,10 +6,22 @@
     <description>Recent content in Posts on dfstorm</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Gabriel Genois</copyright>
-    <lastBuildDate>Sun, 24 Sep 2017 17:13:00 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 Sep 2017 16:58:32 +0200</lastBuildDate>
     
 	<atom:link href="https://dfstorm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>101stats.tk</title>
+      <link>https://dfstorm.github.io/posts/101stats.tk/</link>
+      <pubDate>Mon, 25 Sep 2017 16:58:32 +0200</pubDate>
+      
+      <guid>https://dfstorm.github.io/posts/101stats.tk/</guid>
+      <description>Comment ce petit projet est devenue réalité ? Pure luck.. and some skils. Nous n&amp;rsquo;avions pas le temps de lire la moindre documentation.
+l&amp;rsquo;addresse du projet (qui ne sera probablement pas en ligne très longtemps): http://101stats.tk/
+1 - L&amp;rsquo;API L&amp;rsquo;API n&amp;rsquo;est pas vraiment mise de l&amp;rsquo;avant. Elle est probablement beaucoup plus utile au staff qu&amp;rsquo;aux étudiants&amp;hellip; Considérant la quantité de &amp;ldquo;end point&amp;rdquo; seulement accessible au staff.
+Après plusieurs essaies, nous réalisons qu&amp;rsquo;il ne sera pas possible d&amp;rsquo;obtenir le niveau des candidats facilement.</description>
+    </item>
     
     <item>
       <title>La Premiere Piscine Du 101</title>
