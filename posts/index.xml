@@ -6,10 +6,20 @@
     <description>Recent content in Posts on dfstorm</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>Gabriel Genois</copyright>
-    <lastBuildDate>Mon, 25 Sep 2017 16:58:32 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 26 Sep 2017 13:44:21 +0200</lastBuildDate>
     
 	<atom:link href="https://dfstorm.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Un Grand Ménage</title>
+      <link>https://dfstorm.github.io/posts/un-grand-menage/</link>
+      <pubDate>Tue, 26 Sep 2017 13:44:21 +0200</pubDate>
+      
+      <guid>https://dfstorm.github.io/posts/un-grand-menage/</guid>
+      <description>Aujourd&amp;rsquo;hui, centralisation de mes VPS. Je vais concentrer toute mes instances sur un seul VPS via Docker.
+Downtime is expected.</description>
+    </item>
     
     <item>
       <title>101stats.tk</title>
