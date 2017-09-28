@@ -33,6 +33,12 @@
   </url>
   
   <url>
+    <loc>https://dfstorm.github.io/</loc>
+    <lastmod>2017-09-28T15:43:09+02:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://dfstorm.github.io/posts/</loc>
     <lastmod>2017-09-28T15:43:09+02:00</lastmod>
     <priority>0</priority>
@@ -40,12 +46,6 @@
   
   <url>
     <loc>https://dfstorm.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://dfstorm.github.io/</loc>
-    <lastmod>2017-09-28T15:43:09+02:00</lastmod>
     <priority>0</priority>
   </url>
   
